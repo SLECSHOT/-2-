@@ -7,7 +7,7 @@ int main() {
     std::cout << "Enter a number: ";
     std::cin >> number;
 
-    double result = std::pow(number, 2);
+    double result = std::pow(number, 3);
 
     std::cout << "The result is: " << result << std::endl;
 
